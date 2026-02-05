@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![maxibooksiyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxibooksiyi)  
+![maxibooksiyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxibooksiyi&show_icons=true&theme=radical)  
