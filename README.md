@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 NOKIA OZO  
-![](img/1770345228361.jpg)  
+![](img/1770345228361.jpg){:height="50%" width="50%"}  
 
 APM T265 树莓派 
 ![](img/1770281537047.jpg)   
