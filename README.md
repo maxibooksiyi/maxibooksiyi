@@ -34,6 +34,7 @@ P200
 <img src="img/1770358838978.jpg" height="70%" width="70%">
 
 <img src="img/1770352528226.jpg" height="70%" width="70%">  
+[![](img/1770352528226.jpg)](https://www.bilibili.com/video/BV192421K7ED/)  
 
 <img src="img/QQ20260206-164507.png" height="70%" width="70%">  
 
