@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 NOKIA OZO  
-![](img/1770345228361.jpg){:height="50%" width="50%"}  
+[](img/1770345228361.jpg) 
 <img src="img/1770345228361.jpg" title="1770345228361" height="50%" width="50%">
 
 APM T265 树莓派 
-![](img/1770281537047.jpg)   
+[](img/1770281537047.jpg)   
+<img src="img/1770281537047.jpg" height="50%" width="50%">
 
 ACFLY T265  
 ![](img/1770346558856.jpg)  
