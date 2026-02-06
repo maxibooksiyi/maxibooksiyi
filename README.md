@@ -36,5 +36,6 @@ P200
 <img src="img/1770352528226.jpg" height="70%" width="70%">  
 
 
+aruco二维码检测定位原理讲解及基于opencv的代码和ros功能包实现  
 [![aruco二维码检测定位原理讲解及基于opencv的代码和ros功能包实现-bilibili](img/202602061552.PNG)](https://www.bilibili.com/video/BV1wD421W7tT/)   
 
