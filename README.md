@@ -27,8 +27,9 @@ ACFLY T265
 <img src="img/1770346558856.jpg" height="70%" width="70%">
 
 P200  
-[](img/1770348236459.jpg)  
 <img src="img/1770348236459.jpg" height="70%" width="70%">
+
+[![](img/1770348236459.jpg)](https://www.bilibili.com/video/BV1wD421W7tT/)   
 
 <img src="img/1770359911135.jpg" height="70%" width="70%">
 
