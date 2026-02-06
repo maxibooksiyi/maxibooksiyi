@@ -20,12 +20,12 @@ NOKIA OZO
 
 APM T265 树莓派 
 [](img/1770281537047.jpg)   
-<img src="img/1770281537047.jpg" height="50%" width="50%">
+<img src="img/1770281537047.jpg" height="70%" width="70%">
 
 ACFLY T265  
 [](img/1770346558856.jpg)  
-<img src="img/1770346558856.jpg" height="50%" width="50%">
+<img src="img/1770346558856.jpg" height="70%" width="70%">
 
 [](img/1770348236459.jpg)  
-<img src="img/1770348236459.jpg" height="50%" width="50%">
+<img src="img/1770348236459.jpg" height="70%" width="70%">
 
