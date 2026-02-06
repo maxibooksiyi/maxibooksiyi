@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+NOKIA OZO  
+![](img/1770345228361.jpg)  
 
-![](img/1770281537047.jpg)  
+![](img/1770281537047.jpg)   
