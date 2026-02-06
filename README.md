@@ -29,7 +29,7 @@ ACFLY T265
 P200  
 <img src="img/1770348236459.jpg" height="70%" width="70%">
 
-<img src="img/1770359911135.jpg" height="70%" width="70%">
+<!-- <img src="img/1770359911135.jpg" height="70%" width="70%"> -->  
 
 <img src="img/1770358838978.jpg" height="70%" width="70%">
 
