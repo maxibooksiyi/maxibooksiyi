@@ -37,6 +37,7 @@ P200
 
 [![](img/QQ20260206-164507.png)](https://www.bilibili.com/video/BV192421K7ED/)  
 
+改良的无人机astar  
 <!-- <img src="img/QQ20260206-164507.png" height="70%" width="70%"> -->
 
 
