@@ -49,3 +49,6 @@ https://www.bilibili.com/video/BV1ux421f7kf/
 
 把基于opencv4的vins-mono前端改为superpoint+光流  
 https://www.bilibili.com/video/BV1SH4y1E7Mc/  
+
+把ego的plan_env模块单独取出订阅位姿和深度图构建自己可用的导航地图  
+https://www.bilibili.com/video/BV1nZ421b7Ta/  
