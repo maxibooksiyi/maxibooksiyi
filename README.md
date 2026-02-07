@@ -33,7 +33,7 @@ P200
 
 <!-- <img src="img/1770359911135.jpg" height="70%" width="70%"> -->  
 
-<img src="img/1770358838978.jpg" height="70%" width="70%">
+<img src="img/1770358838978.jpg" height="50%" width="50%">
 
 <!-- <img src="img/1770352528226.jpg" height="70%" width="70%"> -->    
 
