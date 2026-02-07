@@ -25,7 +25,6 @@ APM T265 树莓派
 <img src="img/1770281537047.jpg" height="50%" width="50%">
 
 ACFLY T265  
-[](img/1770346558856.jpg)  
 <img src="img/1770346558856.jpg" height="50%" width="50%">
 
 P200  
