@@ -69,3 +69,6 @@ https://www.bilibili.com/video/BV1wD421W7tT/
 
 aruco二维码降落原理与代码讲解及gazebo仿真演示  
 https://www.bilibili.com/video/BV1VE421T7wJ/  
+
+无人机SLAM与运动规划 
+https://www.bilibili.com/video/BV1eJ4m1s7JY/  
