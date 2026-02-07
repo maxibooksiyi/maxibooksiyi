@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [](img/1770345228361.jpg) 
 <img src="img/1770345228361.jpg" title="1770345228361" height="50%" width="50%">
 
-### APM T265 树莓派 
+### APM T265 
 [](img/1770281537047.jpg)   
 <img src="img/1770281537047.jpg" height="50%" width="50%">
 
