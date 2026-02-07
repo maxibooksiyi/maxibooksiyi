@@ -18,18 +18,18 @@ Here are some ideas to get you started:
 ## 项目 
 NOKIA OZO  
 [](img/1770345228361.jpg) 
-<img src="img/1770345228361.jpg" title="1770345228361" height="70%" width="70%">
+<img src="img/1770345228361.jpg" title="1770345228361" height="50%" width="50%">
 
 APM T265 树莓派 
 [](img/1770281537047.jpg)   
-<img src="img/1770281537047.jpg" height="70%" width="70%">
+<img src="img/1770281537047.jpg" height="50%" width="50%">
 
 ACFLY T265  
 [](img/1770346558856.jpg)  
-<img src="img/1770346558856.jpg" height="70%" width="70%">
+<img src="img/1770346558856.jpg" height="50%" width="50%">
 
 P200  
-<img src="img/1770348236459.jpg" height="70%" width="70%">
+<img src="img/1770348236459.jpg" height="50%" width="50%">
 
 <!-- <img src="img/1770359911135.jpg" height="70%" width="70%"> -->  
 
