@@ -44,3 +44,8 @@ P200
 aruco二维码检测定位原理讲解及基于opencv的代码和ros功能包实现  
 [![aruco二维码检测定位原理讲解及基于opencv的代码和ros功能包实现-bilibili](img/202602061552.PNG)](https://www.bilibili.com/video/BV1wD421W7tT/)   
 
+把RTPL-VIO的前端由EDLines改为MLSD  
+https://www.bilibili.com/video/BV1ux421f7kf/   
+
+把基于opencv4的vins-mono前端改为superpoint+光流  
+https://www.bilibili.com/video/BV1SH4y1E7Mc/  
