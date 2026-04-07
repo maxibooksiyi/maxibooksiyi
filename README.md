@@ -70,3 +70,7 @@ https://www.bilibili.com/video/BV1VE421T7wJ/
 
 无人机SLAM与运动规划  
 https://www.bilibili.com/video/BV1eJ4m1s7JY/  
+
+
+全景照片浏览  
+https://maxibooksiyi.github.io/Panorama-photo-viewer/  
