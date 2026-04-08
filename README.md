@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 改良的无人机astar  
 [![](img/QQ20260206-164507.png)](https://www.bilibili.com/video/BV192421K7ED/)  
 
-<!-- <img src="img/QQ20260206-164507.png" height="70%" width="70%"> -->
+<!-- <img src="img/QQ20260206-164507.png" height="50%" width="50%"> -->
 
 <!--
 aruco二维码检测定位原理讲解及基于opencv的代码和ros功能包实现  
